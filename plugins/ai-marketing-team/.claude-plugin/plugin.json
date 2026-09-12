@@ -1,0 +1,21 @@
+{
+  "name": "ai-marketing-team",
+  "version": "1.0.0",
+  "description": "Hire a five-person AI marketing team in 45 minutes. A Designer builds your brand system in Claude Design, a Strategist writes your positioning, a Scout finds the open lane in your niche, a Copywriter builds your hooks database, and a Producer turns one hook into on-brand social posts and a UGC-style sizzle reel. Built for non-technical founders. Question by question, click by click.",
+  "author": {
+    "name": "Tam Walsh",
+    "url": "https://www.youtube.com/@AiEmpowermentNow"
+  },
+  "homepage": "https://www.youtube.com/@AiEmpowermentNow",
+  "keywords": [
+    "marketing",
+    "branding",
+    "positioning",
+    "social media",
+    "hooks",
+    "short form video",
+    "design system",
+    "ugc",
+    "small business"
+  ]
+}
