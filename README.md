@@ -10,11 +10,11 @@ Built by **Tam Walsh** · [youtube.com/@AiEmpowermentNow](https://www.youtube.co
 Open Claude. Paste these two lines, one at a time.
 
 ```
-/plugin marketplace add TAM_GITHUB_USERNAME/aien
+/plugin marketplace add AIEmpowermentNow/aioptimist
 ```
 
 ```
-/plugin install ai-marketing-team@aien
+/plugin install ai-marketing-team@aioptimist
 ```
 
 That's it. Now type:

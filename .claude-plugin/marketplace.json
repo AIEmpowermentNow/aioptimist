@@ -1,5 +1,5 @@
 {
-  "name": "aien",
+  "name": "aioptimist",
   "owner": {
     "name": "Tam Walsh",
     "url": "https://www.youtube.com/@AiEmpowermentNow"
@@ -15,7 +15,16 @@
       "description": "Hire a five-person AI marketing team in 45 minutes. A Designer builds your brand system, a Strategist writes your positioning, a Scout finds the open lane in your niche, a Copywriter builds your hooks database, and a Producer turns one hook into on-brand social content and a sizzle reel.",
       "version": "1.0.0",
       "category": "marketing",
-      "keywords": ["marketing", "branding", "positioning", "social media", "hooks", "short form video", "design system", "small business"]
+      "keywords": [
+        "marketing",
+        "branding",
+        "positioning",
+        "social media",
+        "hooks",
+        "short form video",
+        "design system",
+        "small business"
+      ]
     }
   ]
 }
