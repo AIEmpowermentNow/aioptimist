@@ -34,11 +34,13 @@ Change the line above to `higgsfield`, `runway`, `elevenlabs`, or `none` to swit
 
 ## higgsfield
 
-**Fallback provider.** Activate by changing the ACTIVE PROVIDER line to `higgsfield`.
+**Tools:** `mcp__higgsfield__*`
 
-No MCP connection in this plugin. The Producer switches to **handoff mode**: it produces the complete shot list, the per-shot image prompt, the per-shot motion prompt, the voiceover script with timings, and the assembly order as a copyable block, and tells the participant exactly where to paste each piece in the Higgsfield interface. Everything upstream of rendering is identical.
+Activate by changing the ACTIVE PROVIDER line to `higgsfield`. Bundled with this plugin as a remote connector, same as Magnific, so the participant signs in with her own Higgsfield account and the tools appear.
 
----
+**Pipeline:** generate each keyframe from the shot list, then animate each shot from its keyframe, then assemble in order. Tool names vary by version, so read the connector's own tool list before the first call rather than assuming names. Poll any job-style call until it reports complete before chaining its output into the next step.
+
+**If the connector is not connected**, fall back to handoff mode: produce the complete shot list, per-shot image prompt, per-shot motion prompt, voiceover script with timings, and assembly order as one copyable block, and say where each piece goes in the Higgsfield interface. Everything upstream of rendering is identical.
 
 ## runway
 
@@ -50,7 +52,7 @@ No MCP connection in this plugin. The Producer switches to **handoff mode**: it 
 
 ## elevenlabs
 
-**Tools:** `mcp__ElevenLabs__creative_*`
+**Tools:** `mcp__elevenlabs__*` (bundled with this plugin as a remote connector)
 
 Strongest when audio carries the piece. Call `creative_create_flow` FIRST when one generation feeds another, then pass that flow_id to every subsequent call. Poll `creative_get_flow_run_status` until complete. Voice must come from `creative_list_voices` or the participant — never invented.
 

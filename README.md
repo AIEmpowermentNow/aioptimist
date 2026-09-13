@@ -67,6 +67,20 @@ Each one writes a file to a folder called `marketing-team/`. That folder is the 
 
 ---
 
+---
+
+## Connecting your video tools
+
+The plugin comes with three video and audio tools already declared: **Magnific**, **Higgsfield**, and **ElevenLabs**. Installing the plugin puts them in your list. It does not sign you in.
+
+You sign in with your own account, once, and Claude remembers it. There is no shared login, and there shouldn't be. Your renders come out of your credits, not somebody else's.
+
+**To connect one:** open the connector list in Claude, find the tool, click connect, and sign in when the window opens. That's the whole thing.
+
+**You don't need any of them to get value.** Skip all three and the Producer still writes you the full shot list, every prompt, the script, and the captions. That's the part you'd have paid a strategist for. The video is the bonus, and you can film those shots on your phone.
+
+---
+
 ## Doing it again tomorrow
 
 Open Claude. Say **build my marketing team**. Point it at a different product.
