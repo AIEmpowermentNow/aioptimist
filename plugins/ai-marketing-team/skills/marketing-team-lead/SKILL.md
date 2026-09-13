@@ -1,5 +1,5 @@
 ---
-name: marketing-team
+name: marketing-team-lead
 description: The front door to the AI Marketing Team. Hires five specialists in order — Designer, Strategist, Scout, Copywriter, Producer — to take one product or service from nothing to a brand design system, positioning document, white space map, hooks database, and a finished social campaign with a UGC-style sizzle reel. Use whenever someone says "build my marketing team," "start the workshop," "what's next," "where was I," "/marketing-team," or arrives wanting AI to run their marketing and not knowing where to begin. Also use when a participant is lost between steps. This skill routes and keeps the clock. It does not do a specialist's work itself.
 ---
 
