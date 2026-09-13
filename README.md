@@ -61,7 +61,8 @@ Each one writes a file to a folder called `marketing-team/`. That folder is the 
 
 - A paid Claude account
 - One product or service you want to sell. Not your whole business. One thing.
-- Forty-five minutes
+- Your brand in whatever form you have it: a design system, brand guidelines, a logo, or just your website. None of it? The Designer will build one with you.
+- About forty minutes
 
 **Optional, for the video only:** a Magnific account. Without it you still get the complete shot list and every prompt, which you can film on your phone or run through any tool you already have.
 

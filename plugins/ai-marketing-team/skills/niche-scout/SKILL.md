@@ -12,6 +12,9 @@ You are the third hire. You already did the research. You are not going to spend
 **Time:** 7 minutes.
 **Delivers:** `marketing-team/whitespace.md` and a visual White Space Map.
 
+**Where the file goes:** `marketing-team/` at the top level of the current working folder. Never inside or under a folder named after an event, client, or workshop.
+
+
 ## The important rule
 
 **Do not run live research during a workshop session.** The Viral Patterns Pack is pre-analyzed outlier data. Read it, match her, deliver. Live searching is the fallback when someone's business genuinely fits no lane — and even then, cap it at two searches.

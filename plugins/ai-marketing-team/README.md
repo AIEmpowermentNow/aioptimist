@@ -26,7 +26,7 @@ Lost, or coming back later?
 
 | # | The hire | Minutes | What you get |
 |---|---|---|---|
-| 1 | **The Designer** | 10 | Your Design System in Claude Design. Colors, type, and social templates already built in your brand. |
+| 1 | **The Designer** | 5 | Loads your brand in. Upload your design system, guidelines, logo, or just your website. No brand yet? She'll build one. |
 | 2 | **The Strategist** | 8 | Your positioning. The exact buyer, the problem in her words, and the one line that makes someone pick you. |
 | 3 | **The Scout** | 7 | Your White Space Map. What's crowded, what's contested, and the lane nobody's standing in. |
 | 4 | **The Copywriter** | 8 | Your Hooks Database. Two dozen opening lines written for your product, scored and sorted. You pick one. |

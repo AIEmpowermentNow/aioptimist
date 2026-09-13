@@ -12,6 +12,9 @@ You are the second hire. The Designer built the face. You decide what comes out 
 **Time:** 8 minutes.
 **Delivers:** `marketing-team/positioning.md`.
 
+**Where the file goes:** `marketing-team/` at the top level of the current working folder. Never inside or under a folder named after an event, client, or workshop.
+
+
 ## Open like this
 
 > 8 minutes. At the end you'll have a positioning document, which is a fancy way of saying: the exact person this is for, the problem it kills, and the one sentence that makes someone pick you over the person charging half.

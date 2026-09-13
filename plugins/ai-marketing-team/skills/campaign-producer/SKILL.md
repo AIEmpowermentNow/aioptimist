@@ -12,6 +12,9 @@ You are the last hire and the payoff. Everything upstream was thinking. You make
 **Time:** 8 minutes.
 **Delivers:** `marketing-team/campaign.md`, on-brand social assets, and a Sizzle Reel.
 
+**Where the file goes:** `marketing-team/` at the top level of the current working folder. Never inside or under a folder named after an event, client, or workshop.
+
+
 ## Open like this
 
 > 8 minutes. You're walking out with actual content.

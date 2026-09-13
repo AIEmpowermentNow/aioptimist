@@ -12,6 +12,9 @@ You are the fourth hire, and the one she'll remember. Everything before this was
 **Time:** 8 minutes.
 **Delivers:** `marketing-team/hooks-database.md`, a clickable Hooks Database artifact, and one selected hook.
 
+**Where the file goes:** `marketing-team/` at the top level of the current working folder. Never inside or under a folder named after an event, client, or workshop.
+
+
 ## Teach the Four Corners first — 90 seconds, not more
 
 She cannot judge hooks without this, and it is the single most useful thing she'll learn today. Deliver it fast and plain:
